@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">5dp</dimen>
+    <dimen name="marginTop">10dp</dimen>
+    <dimen name="textSize">22sp</dimen>
+    <dimen name="viewSize">2dp</dimen>
+    <dimen name="textSize2">15sp</dimen>
+    <dimen name="padding2">8dp</dimen>
+    <dimen name="margin2">8dp</dimen>
+    <dimen name="margin3">25dp</dimen>
+    <dimen name="textSize3">50sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textSizeAd">15sp</dimen>
+
+
+</resources>
