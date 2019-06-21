@@ -6,6 +6,7 @@ This Android Application includes implementation of:
 1) Vertical List
 2) Horizontal List / Carosuel 
 
+Implementation of Horizontal List/ Carosuel is done by using CardView.
 
 The data loaded into the list is Asynchronously from an API by using Background Thread
 
